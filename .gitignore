@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #aws secrets
-.pem
+*.pem
